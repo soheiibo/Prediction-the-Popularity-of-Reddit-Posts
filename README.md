@@ -20,3 +20,5 @@ Text preprocessing was done for the title of the post by removing punctuations, 
 As it is a regression problem, regression models like Linear regression, Decision tree regressor, Random forest regressor, KNN regressor, Lasso, Ridge, ElasticNet and XGBoost regressor were used. These models were trained with 60% train data and prediction on 40% test data. The performance of these models was measured based on test accuracy. Out of all these models, XGBoost regressor and Random forest regressor performed well with around 50% accuracy on test dataset.
 
 The application was deployed on Heroku. The deployed application was tested with different Reddit post URLs. As the accuracy of the model is around 50%, the predictions were a little different from expected. In future work, more data can be used to train the model to get good accuracy.
+
+Google Drive link for dataset (ScrappedPostsData.csv): https://drive.google.com/file/d/15nO0765lScyH17q-XvJ068hD7-spne0T/view?usp=sharing
