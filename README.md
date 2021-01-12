@@ -1,6 +1,6 @@
 # Prediction-the-Popularity-of-Reddit-Posts
 
-# Link to Deployed Application : https://reddit-post-score.herokuapp.com/
+### Link to Deployed Application : https://reddit-post-score.herokuapp.com/
 
 # About the Project:
 This project is about predicting the overall score a Reddit post will get. Score is the result of upvotes and downvotes for a particular post. Its was identified as a regression problem. The dataset was created using web scarpping with the help of praw library. The features exracted are:
